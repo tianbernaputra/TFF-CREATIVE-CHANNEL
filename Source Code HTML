@@ -16,7 +16,7 @@
     <link rel="icon" href="img/Tff Picture.jpeg">
     <!-- My CSS -->
     <link rel="stylesheet" href="style.css" title="">   
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/main.css">
   </head>
   <body id=home>
     <!-- Navbar -->
@@ -244,13 +244,12 @@
     <!-- Footer -->
     <footer class="bg-primary text-white text-center pb-5 text-bold">
       <p>Created With <i class="bi bi-heart-fill text-danger"></i> by <a href="https://www.youtube.com/channel/UC0u6O8JPY_ztqp1hVDu-qeA" target="_blank" class="text-white fw-bold">MAS T</a></p>
-      <p>I LEARNED FROM :<a href="https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg" target="_blank" class="text-white fw-bold"> Sandhika Galih</a></p>
+      <p>I LEARNED FROM :<a href="https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg" target="_blank" class="text-white fw-bold"> Web Programming UNPAS</a></p>
       <p><a href="Source Code HTML" target="_blank" class="text-white fw-bold">Source Code HTML </a></p>
-      <p><a href="Source Code CSS" target="_blank" class="text-white fw-bold">Source Code CSS </a></p>
     </footer>
     <!-- Akhir Footer -->
     
-    <s src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></s>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 
     <script>
       const scriptURL = 'https://script.google.com/macros/s/AKfycbxg370wP6F9-Og0CPA1XeJXxA_A-SUZC-h1MTawNmhKprbAiK3rqK1aDIWXRwN8BHa8cA/exec'
