@@ -10,3 +10,17 @@
 section {
   padding-top: 9rem;
 }
+
+@media (min-width: 992px) {
+  .nav-item {
+    text-transform: uppercase;
+  }
+
+  .nav-item:hover::after {
+    content: '';
+    display: block;
+    border-bottom: 3px solid #ff0000;
+    width: 50%;
+    margin: auto;
+  }
+}
